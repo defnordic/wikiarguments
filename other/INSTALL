@@ -1,0 +1,6 @@
+* import sql/*.
+* modify src/production_base/etc/config.php.
+* use src/production_base as code base.
+
+***
+* if you want to use the url_shortener, use src/shortener_base as code base.
